@@ -1,0 +1,256 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-image: linear-gradient(darkgray, black);
+  padding: 2px;
+  margin: 2px;
+}
+
+nav{
+  background-image: linear-gradient(darkgray, black);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  box-shadow: 2px 2px 2px 2px black;
+  height: 50px;
+}
+
+h1{
+  color: white;
+  padding: 5px;
+  font-family:Arial, Helvetica, sans-serif;
+  position: relative;
+  bottom: 15px;
+}
+
+ul li{
+  display: inline;
+  padding: 5px;
+  font-family:Arial, Helvetica, sans-serif;
+  position: relative;
+  bottom: 60px;
+  left: 300px;
+}
+
+ul li a{
+  text-decoration: none;
+  color: white;
+}
+
+.elements{
+  display: grid;
+  color: white;
+  position: absolute;
+  top: 40px;
+  left: -125px;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.solution-1{
+    width:1325px;
+    height: 500px;
+    border: 1px solid blue;
+  position: absolute;
+  left: 10px;
+  background-image:linear-gradient(black, #4a4a4a);
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px 4px 4px black;
+}
+
+.elements-2{
+  display: grid;
+  color: white;
+  position: absolute;
+  top: 100px;
+  left: -150px;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.element-20{
+  position: relative;
+  left: 500px;
+  top: -50px;
+}
+
+.element-13{
+  position: relative;
+  left: 725px;
+}
+.element-14{
+  position: relative;
+  left: 725px;
+}
+.element-15{
+  position: relative;
+  left: 725px;
+}
+.element-16{
+  position: relative;
+  left: 725px;
+}
+.element-17{
+  position: relative;
+  left: 725px;
+}
+.element-18{
+  position: relative;
+  left: 725px;
+}
+.element-19{
+  position: relative;
+  left: 725px;
+}
+
+.solution-2{
+    width:1325px;
+    height: 500px;
+    border: 1px solid blue;
+  position: absolute;
+  left: 10px;
+  background-image:linear-gradient(black, #4a4a4a);
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px 4px 4px black;
+}
+
+.elements{
+  display: grid;
+  color: white;
+  position: absolute;
+  top: 40px;
+  left: -125px;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.solution-4{
+    width:1325px;
+    height: 500px;
+    border: 1px solid blue;
+  position: absolute;
+  left: 10px;
+  background-image:linear-gradient(black, #4a4a4a);
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px 4px 4px black;
+}
+
+.elements-4{
+  display: grid;
+  color: white;
+  position: absolute;
+  top: 100px;
+  left: -150px;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.element-21{
+  position: relative;
+  left: 650px;
+  top: -50px;
+}
+
+.element-22{
+  position: relative;
+  left: 650px;
+}
+.element-23{
+  position: relative;
+  left: 650px;
+}
+
+.solution-5{
+    width:1325px;
+    height: 500px;
+    border: 1px solid blue;
+  position: absolute;
+  left: 10px;
+  background-image:linear-gradient(black, #4a4a4a);
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px 4px 4px black;
+}
+
+.elements-5{
+  display: grid;
+  color: white;
+  position: absolute;
+  top: 100px;
+  left: -150px;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.element-24{
+  position: relative;
+  left: 600px;
+  top: -50px;
+}
+
+.element-25{
+  position: relative;
+  left: 300px;
+}
+
+.solution-6{
+    width:1325px;
+    height: 500px;
+    border: 1px solid blue;
+  position: absolute;
+  left: 10px;
+  background-image:linear-gradient(black, #4a4a4a);
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px 4px 4px black;
+}
+
+.elements-6{
+  display: grid;
+  color: white;
+  position: absolute;
+  top: 100px;
+  left: -150px;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.element-26{
+  position: relative;
+  left: 650px;
+  top: -50px;
+}
+
+.element-27{
+  position: relative;
+  left: 650px;
+}
+
+.element-28{
+  position: relative;
+  left: 650px;
+}
+
+.element-29{
+  position: relative;
+  left: 650px;
+}
+
+.element-30{
+  position: relative;
+  left: 650px;
+}
+
+.element-31{
+  position: relative;
+  left: 650px;
+}
+
